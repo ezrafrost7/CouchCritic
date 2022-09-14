@@ -38,6 +38,8 @@ function App() {
         </Container>
 
       </header>
+      <p>Interested? Contact us here:</p>
+      <p>ezrafrost7@gmail.com</p>
     </div>
   );
 }
